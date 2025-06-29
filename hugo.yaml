@@ -1,0 +1,21 @@
+baseURL: "https://htdblogs.github.io/"
+languageCode: "zh-cn"
+title: "Flighter's Blog"
+theme: "PaperMod"
+relativeURLs: true
+
+params:
+  description: "一块记录生活和学习的地方，欢迎来访！"
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/htdblogs"
+    - name: "洛谷"
+      url: "https://www.luogu.com.cn/user/1581113"
+    - name: "知乎"
+      url: "https://www.zhihu.com/people/flighter-1"
+
+menu:
+  main:
+    - name: "讨论区"
+      url: "https://github.com/htdblogs/htdblogs.github.io/discussions"
+      weight: 100
